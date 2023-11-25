@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Kevin  👋</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Electronic+Engineer; Signal Processing)](https://www.linkedin.com/in/kevin-wahle/)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Electronic+Engineer;Signal+Processing)
 
 Hey! 👋 Electronics Engineering student at ITBA, going through my fifth year with a focus on Signal Processing. 🚀 Proficient in crafting solutions for embedded devices like FPGAs and microcontrollers, fluent in languages such as C, C++, and Python. 💻 From diving into circuits to decoding signals, I'm all in for the tech journey! 🧠 Additionally, I've applied various neural network architectures, including Multi-Layer Perceptrons (MLP), Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), and more, in practical projects related to both Natural Language Processing (NLP) and computer vision. Ready to engineer the future!  🦾
 
@@ -31,3 +31,7 @@ Hey! 👋 Electronics Engineering student at ITBA, going through my fifth year w
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-%2322658A?style=for-the-badge&logo=google-colab)](your_colab_notebook_link)
 ![MCUXpresso](https://img.shields.io/badge/MCUXpresso-Blue?style=for-the-badge&logo=NXP)
 ![Quartus](https://img.shields.io/badge/Quartus-Prime?style=for-the-badge&labelColor=%23294C6A&color=%231C4795)
+
+## 📊 GitHub Profile Stats:
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinWahle&theme=city_light&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
