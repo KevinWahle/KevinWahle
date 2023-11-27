@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Electronic+Engineer;Signal+Processing)
 
-Hey! 👋 Electronics Engineering student at ITBA, going through my fifth year with a focus on Signal Processing. 🚀 Proficient in crafting solutions for embedded devices like FPGAs and microcontrollers, fluent in languages such as C, C++, and Python. 💻 From diving into circuits to decoding signals, I'm all in for the tech journey! 🧠 Additionally, I've applied various neural network architectures, including Multi-Layer Perceptrons (MLP), Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), and more, in practical projects related to both Natural Language Processing (NLP) and computer vision. Ready to engineer the future!  🦾
+Hey! 👋 Electronics Engineering student at ITBA, going through my fifth year with a focus on Signal Processing. 🚀 Proficient in crafting solutions for embedded devices like FPGAs and microcontrollers, experienced in languages such as C, C++, and Python. 💻 From diving into circuits to decoding signals, I'm all in for the tech journey! 🧠 Additionally, I've applied various neural network architectures, including Multi-Layer Perceptrons (MLP), Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), and more, in practical projects related to both Natural Language Processing (NLP) and computer vision. Ready to engineer the future!  🦾
 
 ## 🙋‍♂️ Connect with me 
 <p align="center">
