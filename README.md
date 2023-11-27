@@ -86,19 +86,19 @@ Hey! 👋 Electronics Engineering student at ITBA, going through my fifth year w
 
 <p align="left">
     <a href="https://github.com/KevinWahle/Redes-Neuronales-TP1">
-        <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=Redes-Neuronales-TP1&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=Redes-Neuronales-TP1&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
     </a>
     <a href="https://github.com/KevinWahle/Redes-Neuronales-TP2">
-        <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=Redes-Neuronales-TP2&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=Redes-Neuronales-TP2&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
     </a>
     <a href="https://github.com/KevinWahle/Redes-Neuronales-2-TP1">
-        <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=Redes-Neuronales-2-TP1&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=Redes-Neuronales-2-TP1&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
     </a>
     <a href="https://github.com/KevinWahle/Redes-Neuronales-2-TP2">
-        <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=Redes-Neuronales-2-TP2&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=Redes-Neuronales-2-TP2&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
     </a>
     <a href="https://github.com/KevinWahle/Redes-Neuronales-2-TP3">
-        <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=Redes-Neuronales-2-TP3&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=Redes-Neuronales-2-TP3&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
     </a>
 </p>
 
