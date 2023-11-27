@@ -37,22 +37,22 @@ Hey! 👋 Electronics Engineering student at ITBA, going through my fifth year w
 ### Signal Processing:
 <p align="left">
     <a href="https://github.com/KevinWahle/Denoising-Electroencefalograma">
-        <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=Denoising-Electroencefalograma&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=Denoising-Electroencefalograma&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
     </a>
     <a href="https://github.com/KevinWahle/PASA-TPS">
-        <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=PASA-TPS&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=PASA-TPS&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
     </a>
     <a href="https://github.com/KevinWahle/Image-Processing">
-        <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=Image-Processing&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=Image-Processing&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
     </a>
     <a href="https://github.com/KevinWahle/ASSD-TPF">
-        <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=ASSD-TPF&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=ASSD-TPF&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
     </a>
     <a href="https://github.com/KevinWahle/ASSD-Voice-Authenticator">
-        <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=ASSD-Voice-Authenticator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=ASSD-Voice-Authenticator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
     </a>
     <a href="https://github.com/KevinWahle/ASSD-Synthesis-Tool">
-        <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=ASSD-Synthesis-Tool&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=ASSD-Synthesis-Tool&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
     </a>
 </p>
 
@@ -60,25 +60,25 @@ Hey! 👋 Electronics Engineering student at ITBA, going through my fifth year w
 
 <p align="left">
     <a href="https://github.com/KevinWahle/LaboDeMicros-TPF">
-        <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=LaboDeMicros-TPF&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=LaboDeMicros-TPF&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
     </a>
     <a href="https://github.com/KevinWahle/E5-FPGA">
-        <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=E5-FPGA&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=E5-FPGA&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
     </a>
     <a href="https://github.com/KevinWahle/LaboDeMicros-TP1">
-        <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=LaboDeMicros-TP1&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=LaboDeMicros-TP1&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
     </a>
     <a href="https://github.com/KevinWahle/LaboDeMicros-TP2">
-        <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=LaboDeMicros-TP2&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=LaboDeMicros-TP2&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
     </a>
     <a href="https://github.com/KevinWahle/LaboDeMicros-TP3">
-        <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=LaboDeMicros-TP3&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=LaboDeMicros-TP3&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
     </a>
     <a href="https://github.com/KevinWahle/LaboDeMicros-TP4">
-        <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=LaboDeMicros-TP4&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=LaboDeMicros-TP4&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
     </a>
     <a href="https://github.com/KevinWahle/E3-Alarma-Para-Hogar">
-        <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=E3-Alarma-Para-Hogar&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=E3-Alarma-Para-Hogar&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
     </a>
 </p>
 
@@ -107,25 +107,25 @@ Hey! 👋 Electronics Engineering student at ITBA, going through my fifth year w
 
 <p align="left">
     <a href="https://github.com/KevinWahle/Programacion-1-TP-Integrador">
-        <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=Programacion-1-TP-Integrador&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=Programacion-1-TP-Integrador&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
     </a>
     <a href="https://github.com/KevinWahle/EDA-TP-Integrador">
-        <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=EDA-TP-Integrador&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=EDA-TP-Integrador&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
     </a>
     <a href="https://github.com/KevinWahle/TC-Plot-Tool">
-        <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=TC-Plot-Tool&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=TC-Plot-Tool&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
     </a>
     <a href="https://github.com/KevinWahle/TC-Filter-Tool">
-        <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=TC-Filter-Tool&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=TC-Filter-Tool&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
     </a>
     <a href="https://github.com/KevinWahle/Electrotecnia-TP-Integrador">
-        <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=Electrotecnia-TP-Integrador&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=Electrotecnia-TP-Integrador&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
     </a>
     <a href="https://github.com/KevinWahle/Electronica-2-Tps">
-        <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=Electronica-2-Tps&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=Electronica-2-Tps&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
     </a>
     <a href="https://github.com/KevinWahle/Analysis_Sziklai_Vs_Darlington">
-        <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=Analysis_Sziklai_Vs_Darlington&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KevinWahle&repo=Analysis_Sziklai_Vs_Darlington&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
     </a>
 </p>
 
