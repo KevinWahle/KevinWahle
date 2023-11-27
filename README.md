@@ -132,4 +132,5 @@ Hey! 👋 Electronics Engineering student at ITBA, going through my fifth year w
 
 ## 📊 GitHub Profile Stats:
 
-![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinWahle&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&exclude_repo=config_repo)
+<!-- GitHub Stats - Language Stats -->
+![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinWahle&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=html)
