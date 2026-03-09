@@ -1,8 +1,9 @@
 <h2 align="center">Hi, I'm Kevin  👋</h2>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Electronic+Engineer;Signal+Processing)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Electronic+Engineer;Software+Developer)
 
-Hey! 👋 Electronics Engineering student at ITBA, going through my fifth year with a focus on Signal Processing. 🚀 Proficient in crafting solutions for embedded devices like FPGAs and microcontrollers, experienced in languages such as C, C++, and Python. 💻 From diving into circuits to decoding signals, I'm all in for the tech journey! 🧠 Additionally, I've applied various neural network architectures, including Multi-Layer Perceptrons (MLP), Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), and more, in practical projects related to both Natural Language Processing (NLP) and computer vision. Ready to engineer the future!  🦾
+Electronic Engineer and Software Developer with a strong interest in building complex software systems. My work spans both hardware and software, including embedded systems, FPGAs, signal processing, and machine learning, as well as low-level software and protocol-oriented systems. I have experience designing and implementing Bitcoin-native systems and distributed protocols, like BitVMX. I enjoy tackling challenging engineering problems and turning research ideas into robust and practical implementations.
+Ready to engineer the future!  🦾 
 
 ## 🙋‍♂️ Connect with me 
 <p align="center">
@@ -15,8 +16,9 @@ Hey! 👋 Electronics Engineering student at ITBA, going through my fifth year w
 </p>
 
 ## 💻 Languages:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 [![Verilog](https://img.shields.io/badge/Verilog-acb2c0?style=for-the-badge)](https://)
 ![VHDL](https://img.shields.io/badge/VHDL-acb2c0?style=for-the-badge&color=acb2c0)
@@ -24,15 +26,31 @@ Hey! 👋 Electronics Engineering student at ITBA, going through my fifth year w
 
 
 ## 🛠️ Tools: 
-[![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visual-studio-code)](your_vscode_workspace_link)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Altium-gray?style=for-the-badge&logo=altiumdesigner&logoColor=black&labelColor=%23e8eaed&color=%23e8eaed)
 ![LTspice](https://img.shields.io/static/v1?style=for-the-badge&message=LTspice&color=900028&logo=LTspice&logoColor=FFFFFF&label=)
 ![Matlab](https://img.shields.io/badge/Matlab-%23BE662C?style=for-the-badge&labelColor=MATLAB)
-[![Google Colab](https://img.shields.io/badge/Google%20Colab-%2322658A?style=for-the-badge&logo=google-colab)](your_colab_notebook_link)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-%2322658A?style=for-the-badge&logo=google-colab)
 ![MCUXpresso](https://img.shields.io/badge/MCUXpresso-Blue?style=for-the-badge&logo=NXP)
 ![Quartus](https://img.shields.io/badge/Quartus-Prime?style=for-the-badge&labelColor=%23294C6A&color=%231C4795)
 
-## 📕 Projects I've worked on:
+## ⭐ Featured Work — BitVMX:
+
+<p align="left">
+    <a href="https://github.com/FairgateLabs/BitVMX">
+    <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FairgateLabs&repo=BitVMX&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false">
+    </a>
+    <a href="https://github.com/FairgateLabs/rust-bitvmx-client">
+    <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FairgateLabs&repo=rust-bitvmx-client&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false">
+    </a>
+    <a href="https://github.com/FairgateLabs/BitVMX-CPU">
+    <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FairgateLabs&repo=BitVMX-CPU&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false">
+    </a>
+</p>
+
+## 📕 Other projects I've worked on:
 
 ### Signal Processing:
 <p align="left">
@@ -131,6 +149,5 @@ Hey! 👋 Electronics Engineering student at ITBA, going through my fifth year w
 
 
 ## 📊 GitHub Profile Stats:
+![GitHub stats](https://ghrs.vercel.app/api?username=KevinWahle&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
-<!-- GitHub Stats - Language Stats -->
-![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinWahle&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=html)
